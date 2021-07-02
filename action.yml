@@ -1,4 +1,4 @@
-name: Git Sync Action
+name: sync-git-repo
 author: Wei He <github@weispot.com>
 description: 🔃  Sync between two independent repositories
 branding:
